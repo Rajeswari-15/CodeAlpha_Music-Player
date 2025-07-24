@@ -1,4 +1,4 @@
-# 🎧 GlobalGroove – Multilingual Music Player
+# 🎧 GlobalGroove – Music Player
 
 > ✅ Task 1 Completed – CodeAlpha Internship
 
