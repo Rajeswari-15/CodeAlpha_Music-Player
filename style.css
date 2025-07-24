@@ -1,0 +1,95 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f5f5f5;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  transition: background 0.3s, color 0.3s;
+}
+
+.dark-mode {
+  background: #1e1e1e;
+  color: #eee;
+}
+
+.container {
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+.dark-mode .container {
+  background: #2b2b2b;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.controls {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 20px;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.controls button,
+#volume {
+  font-size: 1.2em;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+#search {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 1em;
+}
+
+#playlist {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.song {
+  padding: 12px;
+  border-radius: 10px;
+  cursor: pointer;
+  background: #fafafa;
+  transition: background 0.2s;
+}
+
+.song:hover {
+  background: #e0e0e0;
+}
+
+.dark-mode .song {
+  background: #444;
+}
+
+.song-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.song-title {
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+.song-artist {
+  font-size: 0.9em;
+  color: #666;
+}

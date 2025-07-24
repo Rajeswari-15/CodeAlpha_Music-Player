@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "language": "English",
+    "url": "https://example.com/shape_of_you.mp3"
+  },
+  {
+    "title": "Believer",
+    "artist": "Imagine Dragons",
+    "language": "English",
+    "url": "https://example.com/believer.mp3"
+  },
+  {
+    "title": "Naatu Naatu",
+    "artist": "Rahul Sipligunj & Kaala Bhairava",
+    "language": "Telugu",
+    "url": "https://example.com/naatu_naatu.mp3"
+  },
+  {
+    "title": "Butta Bomma",
+    "artist": "Armaan Malik",
+    "language": "Telugu",
+    "url": "https://example.com/butta_bomma.mp3"
+  },
+  {
+    "title": "Why This Kolaveri Di",
+    "artist": "Dhanush",
+    "language": "Tamil",
+    "url": "https://example.com/kolaveri_di.mp3"
+  },
+  {
+    "title": "Anbil Avan",
+    "artist": "Chinmayi, Harish Raghavendra",
+    "language": "Tamil",
+    "url": "https://example.com/anbil_avan.mp3"
+  },
+  {
+    "title": "Tamma Tamma Again",
+    "artist": "Badshah & Bappi Lahiri",
+    "language": "Hindi",
+    "url": "https://example.com/tamma_tamma.mp3"
+  },
+  {
+    "title": "Tum Hi Ho",
+    "artist": "Arijit Singh",
+    "language": "Hindi",
+    "url": "https://example.com/tum_hi_ho.mp3"
+  },
+  {
+    "title": "Arabic Oud Song",
+    "artist": "Traditional",
+    "language": "Arabic",
+    "url": "https://example.com/arabic_oud.mp3"
+  },
+  {
+    "title": "Desert Mirage",
+    "artist": "Arabic Artist",
+    "language": "Arabic",
+    "url": "https://example.com/desert_mirage.mp3"
+  },
+  {
+    "title": "Kannada Anthem",
+    "artist": "Vijay Prakash",
+    "language": "Kannada",
+    "url": "https://example.com/kannada_anthem.mp3"
+  },
+  {
+    "title": "Sanchariyagu Nee",
+    "artist": "Puneeth Rajkumar",
+    "language": "Kannada",
+    "url": "https://example.com/sanchariyagu_nee.mp3"
+  },
+  {
+    "title": "Kerala Melody",
+    "artist": "Malayalam Artist",
+    "language": "Malayalam",
+    "url": "https://example.com/kerala_melody.mp3"
+  },
+  {
+    "title": "Entammede Jimikki Kammal",
+    "artist": "Vineeth Sreenivasan",
+    "language": "Malayalam",
+    "url": "https://example.com/jimikki_kammal.mp3"
+  },
+  {
+    "title": "Dynamite",
+    "artist": "BTS",
+    "language": "Korean",
+    "url": "https://example.com/dynamite_bts.mp3"
+  },
+  {
+    "title": "Savage Love",
+    "artist": "Jason Derulo",
+    "language": "English",
+    "url": "https://example.com/savage_love.mp3"
+  },
+  {
+    "title": "Vaaste",
+    "artist": "Dhvani Bhanushali",
+    "language": "Hindi",
+    "url": "https://example.com/vaaste.mp3"
+  },
+  {
+    "title": "Ninnindale",
+    "artist": "Sonu Nigam",
+    "language": "Kannada",
+    "url": "https://example.com/ninnindale.mp3"
+  }
+]

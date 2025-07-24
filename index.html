@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>GlobalGroove – Music Player </title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🎧 GlobalGroove – Music player </h1>
+    
+    <input type="text" id="search" placeholder="Search songs..." />
+
+    <div class="controls">
+      <button id="prev">⏮️</button>
+      <button id="play">▶️</button>
+      <button id="next">⏭️</button>
+      <input type="range" id="volume" min="0" max="1" step="0.01" value="1"/>
+      <button id="toggleTheme">🌓</button>
+    </div>
+
+    <audio id="audio" controls style="width: 100%; margin-bottom: 20px;"></audio>
+    
+    <div id="playlist"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
